@@ -1,0 +1,6 @@
+flask_server_template/__pycache__
+logs/
+.idea/
+*.pyc
+__pycache__/
+z_graveyard/

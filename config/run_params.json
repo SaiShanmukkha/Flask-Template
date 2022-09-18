@@ -1,0 +1,8 @@
+{
+  "LOGGER_CONFIG": "config/logger.conf",
+  "FLASK_CONFIG": "flask_config.DevelopmentConfig",
+  "DB_SERVER": "localhost",
+  "DB_PORT": "5432",
+  "DB_NAME": "dvdrental",
+  "DB_USER": "dvdrental"
+}
